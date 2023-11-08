@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\trokut\bin\Debug\trokut.exe.config
+C:\Users\ucenik\source\repos\trokut\bin\Debug\trokut.exe
+C:\Users\ucenik\source\repos\trokut\bin\Debug\trokut.pdb
+C:\Users\ucenik\source\repos\trokut\obj\Debug\trokut.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\trokut\obj\Debug\trokut.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\trokut\obj\Debug\trokut.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\trokut\obj\Debug\trokut.exe
+C:\Users\ucenik\source\repos\trokut\obj\Debug\trokut.pdb
